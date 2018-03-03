@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\test\\AndroidProject\\airplace\\AirplaceTracker\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_choose_file_or_directory.xml",
+        "source": "F:\\test\\AndroidProject\\airplace\\AirplaceTracker\\app\\src\\main\\res\\layout\\main_choose_file_or_directory.xml"
+    },
+    {
+        "merged": "F:\\test\\AndroidProject\\airplace\\AirplaceTracker\\app\\build\\intermediates\\res\\merged\\debug\\layout\\building_layout.xml",
+        "source": "F:\\test\\AndroidProject\\airplace\\AirplaceTracker\\app\\src\\main\\res\\layout\\building_layout.xml"
+    }
+]

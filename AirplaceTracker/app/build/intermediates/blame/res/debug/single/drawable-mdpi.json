@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\test\\AndroidProject\\airplace\\AirplaceTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\findbuild.png",
+        "source": "F:\\test\\AndroidProject\\airplace\\AirplaceTracker\\app\\src\\main\\res\\drawable-mdpi\\findbuild.png"
+    },
+    {
+        "merged": "F:\\test\\AndroidProject\\airplace\\AirplaceTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon.png",
+        "source": "F:\\test\\AndroidProject\\airplace\\AirplaceTracker\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "F:\\test\\AndroidProject\\airplace\\AirplaceTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\findmap.png",
+        "source": "F:\\test\\AndroidProject\\airplace\\AirplaceTracker\\app\\src\\main\\res\\drawable-mdpi\\findmap.png"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "F:\\test\\AndroidProject\\airplace\\AirplaceLogger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\convert.png",
+        "source": "F:\\test\\AndroidProject\\airplace\\AirplaceLogger\\app\\src\\main\\res\\drawable-mdpi\\convert.png"
+    },
+    {
+        "merged": "F:\\test\\AndroidProject\\airplace\\AirplaceLogger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\info.png",
+        "source": "F:\\test\\AndroidProject\\airplace\\AirplaceLogger\\app\\src\\main\\res\\drawable-mdpi\\info.png"
+    },
+    {
+        "merged": "F:\\test\\AndroidProject\\airplace\\AirplaceLogger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\start_scan.png",
+        "source": "F:\\test\\AndroidProject\\airplace\\AirplaceLogger\\app\\src\\main\\res\\drawable-mdpi\\start_scan.png"
+    },
+    {
+        "merged": "F:\\test\\AndroidProject\\airplace\\AirplaceLogger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\error.png",
+        "source": "F:\\test\\AndroidProject\\airplace\\AirplaceLogger\\app\\src\\main\\res\\drawable-mdpi\\error.png"
+    },
+    {
+        "merged": "F:\\test\\AndroidProject\\airplace\\AirplaceLogger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\shut_down.png",
+        "source": "F:\\test\\AndroidProject\\airplace\\AirplaceLogger\\app\\src\\main\\res\\drawable-mdpi\\shut_down.png"
+    },
+    {
+        "merged": "F:\\test\\AndroidProject\\airplace\\AirplaceLogger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\man.png",
+        "source": "F:\\test\\AndroidProject\\airplace\\AirplaceLogger\\app\\src\\main\\res\\drawable-mdpi\\man.png"
+    },
+    {
+        "merged": "F:\\test\\AndroidProject\\airplace\\AirplaceLogger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\invisible.png",
+        "source": "F:\\test\\AndroidProject\\airplace\\AirplaceLogger\\app\\src\\main\\res\\drawable-mdpi\\invisible.png"
+    },
+    {
+        "merged": "F:\\test\\AndroidProject\\airplace\\AirplaceLogger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\warning.png",
+        "source": "F:\\test\\AndroidProject\\airplace\\AirplaceLogger\\app\\src\\main\\res\\drawable-mdpi\\warning.png"
+    },
+    {
+        "merged": "F:\\test\\AndroidProject\\airplace\\AirplaceLogger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\preferences.png",
+        "source": "F:\\test\\AndroidProject\\airplace\\AirplaceLogger\\app\\src\\main\\res\\drawable-mdpi\\preferences.png"
+    },
+    {
+        "merged": "F:\\test\\AndroidProject\\airplace\\AirplaceLogger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\stop_scan.png",
+        "source": "F:\\test\\AndroidProject\\airplace\\AirplaceLogger\\app\\src\\main\\res\\drawable-mdpi\\stop_scan.png"
+    },
+    {
+        "merged": "F:\\test\\AndroidProject\\airplace\\AirplaceLogger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\clear.png",
+        "source": "F:\\test\\AndroidProject\\airplace\\AirplaceLogger\\app\\src\\main\\res\\drawable-mdpi\\clear.png"
+    },
+    {
+        "merged": "F:\\test\\AndroidProject\\airplace\\AirplaceLogger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon.png",
+        "source": "F:\\test\\AndroidProject\\airplace\\AirplaceLogger\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    }
+]

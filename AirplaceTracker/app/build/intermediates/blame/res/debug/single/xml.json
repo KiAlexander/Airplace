@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\test\\AndroidProject\\airplace\\AirplaceTracker\\app\\build\\intermediates\\res\\merged\\debug\\xml\\choose_algorithm.xml",
+        "source": "F:\\test\\AndroidProject\\airplace\\AirplaceTracker\\app\\src\\main\\res\\xml\\choose_algorithm.xml"
+    },
+    {
+        "merged": "F:\\test\\AndroidProject\\airplace\\AirplaceTracker\\app\\build\\intermediates\\res\\merged\\debug\\xml\\file_row.xml",
+        "source": "F:\\test\\AndroidProject\\airplace\\AirplaceTracker\\app\\src\\main\\res\\xml\\file_row.xml"
+    },
+    {
+        "merged": "F:\\test\\AndroidProject\\airplace\\AirplaceTracker\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "F:\\test\\AndroidProject\\airplace\\AirplaceTracker\\app\\src\\main\\res\\xml\\preferences.xml"
+    }
+]

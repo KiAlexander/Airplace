@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\test\\AndroidProject\\airplace\\AirplaceTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\pos_err_button.xml",
+        "source": "F:\\test\\AndroidProject\\airplace\\AirplaceTracker\\app\\src\\main\\res\\drawable-ldpi\\pos_err_button.xml"
+    },
+    {
+        "merged": "F:\\test\\AndroidProject\\airplace\\AirplaceTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\progress_bar.gif",
+        "source": "F:\\test\\AndroidProject\\airplace\\AirplaceTracker\\app\\src\\main\\res\\drawable-ldpi\\progress_bar.gif"
+    }
+]
